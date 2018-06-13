@@ -1,3 +1,5 @@
+"use strict"
+
 const readline = require('readline')
 
 /* Given a value, test whether the given number is prime number 
@@ -31,7 +33,7 @@ rl.question('Enter a number:  ', (answer) => {
   if (isPrime(answer)) {
     console.log(answer + " is a prime number")
   } else {
-    console.log(answer + " is not a prime number")
+    console.log(answer + " is NOT a prime number")
   }
 
   rl.close();
