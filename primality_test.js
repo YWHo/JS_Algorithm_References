@@ -4,7 +4,9 @@ const readline = require('readline')
 
 /* Given a value, test whether the given number is prime number 
 
-The solution is from https://stackoverflow.com/questions/1801391/what-is-the-best-algorithm-for-checking-if-a-number-is-prime, by saurabh kumar
+The solution is from
+ https://stackoverflow.com/questions/1801391/what-is-the-best-algorithm-for-checking-if-a-number-is-prime 
+by saurabh kumar
 
 */
 
